@@ -1,0 +1,8 @@
+# Ignore all installed modules
+node_modules
+
+# Ignore package lock
+package-lock.json
+
+# Ignore Mac files
+.DS_Store
